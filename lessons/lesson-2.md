@@ -14,3 +14,7 @@ Repository → Branch → Edit → Commit → Pull Request → Review → Merge
 ## Safety Principle
 
 I will never commit passwords, API keys, patient records, or private credentials.
+
+## Correction Checkpoint
+
+I verified that the compare branch contains my work and the base branch receives it.
